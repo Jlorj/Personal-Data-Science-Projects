@@ -1,7 +1,11 @@
 <h1 align="center">Hi there!👋</h1>
-<h3 align="center">Just a little data-sciency geek working on small-side projects during my free time!</h3>
+<h3 align="center">
+  <p>Just a little data-sciency geek working on small-side projects during my free time!</p>
+</h3>
+<p>Do stick around to have a look at some of my side projects!</p>
+<p>Still a work-in-progress I guess...</p>
 
-- 🌱 I’m currently learning **more on Machine Learning**
+- 🌱 I’m currently working **more on Machine Learning**
 
 - 💬 Ask me about **anything I guess...**
 
