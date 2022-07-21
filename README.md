@@ -1,5 +1,5 @@
 # Personal-Data-Science-Projects
-![Pierian_Data_Logo](https://user-images.githubusercontent.com/75927686/180141990-d21c2dee-5eca-45d6-a956-fd68a71e3549.png)
+![J LOH](https://user-images.githubusercontent.com/75927686/180143281-58f5268b-ac9c-4e93-b622-a1a8398d1fb0.png)
 Hi there! Welcome to my Data Science Repository!
 
 I post some of my mini Data Science Projects when I have spare time to do so.
