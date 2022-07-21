@@ -1,22 +1,15 @@
-# Personal-Data-Science-Projects
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">Just a little data-sciency geek from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlorj&label=Profile%20views&color=0e75b6&style=flat" alt="jlorj" /> </p>
 
-- 🔭 I’m currently working on **my life...**
-
 - 🌱 I’m currently learning **more on Machine Learning**
-
-- 👯 I’m looking to collaborate on **my life**
-
-- 🤝 I’m looking for help with **my life**
 
 - 💬 Ask me about **anything I guess...**
 
 - 📫 How to reach me **joellohrj@gmail.com**
 
-- ⚡ Fun fact **I'm an avid badminton fan!!**
+- ⚡ Fun fact **: I'm an avid badminton fan!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
