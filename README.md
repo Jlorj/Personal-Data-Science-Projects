@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">Just a little data-sciency geek from Singapore working on small-side projects during my free time!</h3>
+<h3 align="center">Just a little data-sciency geek working on small-side projects during my free time!</h3>
 
 - 🌱 I’m currently learning **more on Machine Learning**
 
